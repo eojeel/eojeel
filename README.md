@@ -3,5 +3,3 @@
 - 🔭 I’m currently working at PCSPecialist
 - 🌱 I’m currently learning Laravel / Solidity
 - 📫 How to reach me: @eojeel
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eojeel)](https://github.com/anuraghazra/github-readme-stats)
