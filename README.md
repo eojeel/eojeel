@@ -5,7 +5,7 @@
 
 ## Feel free to reach out:
 
-- [LinkedIn]([https://www.linkedin.com/in/eojeel/](https://www.linkedin.com/in/eojeel/)
+- [LinkedIn]([https://www.linkedin.com/in/eojeel/](https://www.linkedin.com/in/eojeel/))
 - [Email](mailto://joe@joelee.io)
 - [Website](https://www.joelee.io/)
 
