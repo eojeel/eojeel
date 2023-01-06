@@ -2,4 +2,11 @@
 
 - 🔭 I’m currently working at PCSpecialist
 - 🌱 I’m currently learning Laravel / Solidity
-- 📫 How to reach me: @eojeel
+
+## Feel free to reach out:
+
+- [LinkedIn]([https://www.linkedin.com/in/steve-mcdougall/](https://www.linkedin.com/in/eojeel/))
+- [Email](mailto://joe@joelee.io)
+- [Website](https://www.joelee.io/)
+
+
